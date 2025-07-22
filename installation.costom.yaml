@@ -1,0 +1,4 @@
+patch:
+  installation_id: "Lenovo M41"
+# 不设置，默认是当前配置目录下的 `sync/`
+  sync_dir: "D:\OneDrive\RimeSync"
